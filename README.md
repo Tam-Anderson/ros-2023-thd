@@ -27,7 +27,7 @@ Open the terminal (**Ctrl+Alt+T**) and enter the following commands in sequence:
 
 The _git clone_ command allows you to download files from a remote server to your local computer. Therefore, the _git clone_ command is specified first, followed by a link to the remote repository.
 
-    git clone git@github.com:THD-autonomous-system/ros-2023-thd.git
+    git clone https://github.com/Tam-Anderson/ros-2023-thd.git
     
 If you do not have an SSH key configured, the git will return an error, this can be corrected as follows:
 
